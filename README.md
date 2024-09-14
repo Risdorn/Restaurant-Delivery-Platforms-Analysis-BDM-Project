@@ -1,6 +1,6 @@
 # A Data-Driven Analysis of Restaurant Delivery Platforms
 
-## Grade Letter: D
+> **Grade Letter: D**
 
 This project was completed as part of the Business Data Management course. I chose the secondary approach for this project, which is why the maximum possible grade is a D in this approach. The project involved analyzing datasets to investigate various aspects of the restaurant delivery industry.
 
